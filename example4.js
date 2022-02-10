@@ -9,3 +9,4 @@ function printUnorderedPairs(arrayA, arrayB){
 }
 
 //¿Cuál es la complejidad de tiempo?
+// O(n^2)

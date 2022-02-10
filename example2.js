@@ -7,3 +7,4 @@ function printPairs(array){
 }
 
 //¿Cuál es la complejidad de tiempo?
+// O(n^2)

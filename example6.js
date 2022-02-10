@@ -8,3 +8,4 @@ function reverse(array){
 }
 
 //¿Cuál es la complejidad de tiempo?
+//O(n/2) + O(1) + O(1) + O(1) + O(1) => O(n)

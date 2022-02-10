@@ -7,3 +7,4 @@ function printUnorderedPairs(array){
 }
 
 //¿Cuál es la complejidad de tiempo?
+// O(n * (n - 1)) => O(n^2)

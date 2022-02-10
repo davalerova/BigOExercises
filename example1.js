@@ -11,3 +11,4 @@ function foo(array){
 }
 
 //¿Cuál es la complejidad de tiempo?
+// O(1) + O(1) + O(n) + O(n) + O(1) => O(n)
